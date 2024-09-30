@@ -29,7 +29,8 @@ This first visualization is created without any labels. It shows how different c
 
 ### Visualization 2: DataMapPlot with User Annotation Labels
 
-![DataMapPlot with user Labels](./Images/UserG.gif)
+<img src="./Images/UserG.gif" alt="DataMapPlot with user Labels" width="800">
+
 ---
 
 ### Visualization 3: Automating Labels of Clusters (TF-IDF)
