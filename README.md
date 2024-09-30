@@ -17,9 +17,6 @@ This script uses the [SentenceTransformers library](https://sbert.net/docs/sente
 
 Once the sentence embeddings are generated, the next step is to visualize them. This script utilizes [DataMapPlot](https://datamapplot.readthedocs.io/en/latest/) to create an interactive plot, showing how the embeddings are clustered and organized in a 2D space.
 
-The visualization helps in understanding the structure of the data and identifying patterns or clusters of sentences that share semantic similarities.
-
-
 ---
 
 ### Visualization 1: DataMapPlot without Labels
