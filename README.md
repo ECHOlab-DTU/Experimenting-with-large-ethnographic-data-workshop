@@ -9,7 +9,7 @@
 
 ### Step 1: Generating Sentence Embeddings with Sentence Transformers
 
-This script demonstrates how to generate sentence embeddings using the SentenceTransformers library. The goal is to encode text data into embeddings, which are numerical representations of sentences. These embeddings are useful for tasks like semantic similarity and clustering.
+This script uses the SentenceTransformers library to generate sentence embeddings from any type of text. Here, we apply it to interview transcripts, enabling us to analyze how interviews relate based on their content. The text is transformed into numerical embeddings that capture semantic meaning, making them ideal for tasks like similarity detection or data clustering.
 
 [Learn more about Sentence Transformers](https://sbert.net/docs/sentence_transformer/pretrained_models.html)
 
