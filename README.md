@@ -24,6 +24,8 @@ The visualization helps in understanding the structure of the data and identifyi
 
 [Learn more about DataMapPlot](https://datamapplot.readthedocs.io/en/latest/)
 
+---
+
 ### Visualization 1: DataMapPlot without Labels
 
 ![DataMapPlot without Labels](./Images/Nolabels.png)
