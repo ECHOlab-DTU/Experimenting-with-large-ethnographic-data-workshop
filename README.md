@@ -1,7 +1,7 @@
 ![Logo](./Images/Logo.png)
 
 
-### Step 0: Step by Step Guide to begin working with your data
+### Step 0: Step-by-Step Guide - Downloading Python and Formatting Your Data
 
 [Download the workshop PDF](https://github.com/Human-Centered-Engineering-Lab/EXPERIMENTING-WITH-LARGE-ETHNOGRAPHIC-DATA-workshop/raw/main/Images/StepbyStep%20Prep_Workshop%2002-10_HCELab.pdf)
 
