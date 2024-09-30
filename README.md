@@ -9,19 +9,16 @@
 
 ### Step 1: Generating Sentence Embeddings with Sentence Transformers
 
-This script uses the SentenceTransformers library to generate sentence embeddings from any type of text. Here, we apply it to interview transcripts, enabling us to analyze how interviews relate based on their content. The text is transformed into numerical embeddings that capture semantic meaning, making them ideal for tasks like similarity detection or data clustering.
-
-[Learn more about Sentence Transformers](https://sbert.net/docs/sentence_transformer/pretrained_models.html)
+This script uses the [SentenceTransformers library](https://sbert.net/docs/sentence_transformer/pretrained_models.html) to generate sentence embeddings from any type of text. Here, we apply it to interview transcripts, enabling us to analyze how interviews relate based on their content. The text is transformed into numerical embeddings that capture semantic meaning, making them ideal for tasks like similarity detection or data clustering.
 
 ---
 
 ### Step 2: Visualizing Sentence Embeddings with DataMapPlot
 
-Once the sentence embeddings are generated, the next step is to visualize them. This script utilizes DataMapPlot to create an interactive plot, showing how the embeddings are clustered and organized in a 2D space.
+Once the sentence embeddings are generated, the next step is to visualize them. This script utilizes [DataMapPlot](https://datamapplot.readthedocs.io/en/latest/) to create an interactive plot, showing how the embeddings are clustered and organized in a 2D space.
 
 The visualization helps in understanding the structure of the data and identifying patterns or clusters of sentences that share semantic similarities.
 
-[Learn more about DataMapPlot](https://datamapplot.readthedocs.io/en/latest/)
 
 ---
 
