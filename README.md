@@ -1,4 +1,4 @@
-![Logo](./Images/logo.png)
+![Logo](./Images/Logo.png)
 
 # EXPERIMENTING WITH LARGE ETHNOGRAPHIC DATA Workshop
 
