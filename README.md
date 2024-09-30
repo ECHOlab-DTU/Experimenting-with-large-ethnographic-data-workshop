@@ -3,7 +3,7 @@
 
 ### Step 0: Step-by-Step Guide - Downloading Python and Formatting Your Data
 
-[Download the workshop PDF](https://github.com/Human-Centered-Engineering-Lab/EXPERIMENTING-WITH-LARGE-ETHNOGRAPHIC-DATA-workshop/raw/main/Images/StepbyStep%20Prep_Workshop%2002-10_HCELab.pdf)
+[Download PDF Guide](https://github.com/Human-Centered-Engineering-Lab/EXPERIMENTING-WITH-LARGE-ETHNOGRAPHIC-DATA-workshop/raw/main/Images/StepbyStep%20Prep_Workshop%2002-10_HCELab.pdf)
 
 ### Google Colab - Only if Your Data is GDPR Compliant
 
