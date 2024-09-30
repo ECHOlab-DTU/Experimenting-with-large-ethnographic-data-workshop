@@ -47,4 +47,4 @@ For more advanced methods, you could consider using [BERTopic](https://maartengr
 
 ---
 
-If the script does not work, you can use [CorText](https://managerv2.cortext.net/) to explore your data. Here is a tutorial on how to use it. The tutorial is a bit old, and the data used in the video comes from Scopus. [Link to video](https://drive.google.com/file/d/14rYIcjR1IYIsCahphZDwVbyC4lcHCJXz/view?usp=sharing)
+If the script does not work, you can use [CorText](https://managerv2.cortext.net/) to explore your data. Here is a tutorial on how to use it. The tutorial is a bit old, and the data used in the video comes from Scopus. [Link to video](https://drive.google.com/file/d/1Z_l0QxRZtxmhDctnAvmEGEXk8OC_m9GC/view?usp=sharing)
