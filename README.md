@@ -9,7 +9,9 @@
 
 ### Step 1: Generating Sentence Embeddings with Sentence Transformers
 
-This script uses the [SentenceTransformers library](https://sbert.net/docs/sentence_transformer/pretrained_models.html) to generate sentence embeddings from any type of text. Here, we apply it to interview transcripts, enabling us to analyze how interviews relate based on their content. The text is transformed into numerical embeddings that capture semantic meaning, making them ideal for tasks like similarity detection or data clustering.
+This script uses the `SentenceTransformers` library to generate sentence embeddings from any type of text. Here, we apply it to interview transcripts, enabling us to analyze how interviews relate based on their content. The text is transformed into numerical embeddings that capture semantic meaning, making them ideal for tasks like similarity detection or data clustering.
+
+In this script, the default `SentenceTransformer` model is **paraphrase-multilingual-MiniLM-L12-v2**, which is trained on many different languages. However, you can easily change it to suit your needs. Here is a list of different [pre-trained models](https://sbert.net/docs/sentence_transformer/pretrained_models.html).
 
 ---
 
