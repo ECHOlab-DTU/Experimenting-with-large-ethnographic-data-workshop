@@ -23,3 +23,10 @@ Once the sentence embeddings are generated, the next step is to visualize them. 
 The visualization helps in understanding the structure of the data and identifying patterns or clusters of sentences that share semantic similarities.
 
 [Learn more about DataMapPlot](https://datamapplot.readthedocs.io/en/latest/)
+
+### Visualization 1: DataMapPlot without Labels
+
+![DataMapPlot without Labels](./Images/Nolabels.png)
+
+This first visualization is created without any labels. It shows how different clusters are formed based on the semantic similarity between interviews. The goal here is to explore the clusters and start identifying patterns in the data, without the influence of labels. Once we have a clear view of these clusters, we can move on to annotating them for further analysis.
+
