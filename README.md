@@ -17,7 +17,7 @@ In this script, the default `SentenceTransformer` model is **paraphrase-multilin
 
 ### Step 2: Visualizing Sentence Embeddings with DataMapPlot
 
-Once the sentence embeddings are generated, the next step is to visualize them. This script utilizes [DataMapPlot](https://datamapplot.readthedocs.io/en/latest/) to create an interactive plot, showing how the embeddings are clustered and organized in a 2D space.
+Once the sentence embeddings are generated, the next step is to visualize them. This script uses [DataMapPlot](https://datamapplot.readthedocs.io/en/latest/) to create an interactive plot, showing how the embeddings are clustered and organized in a 2D space.
 
 ---
 
