@@ -43,6 +43,8 @@ In this example, we demonstrate how machine learning can be used to automaticall
 
 For more advanced methods, you could consider using [BERTopic](https://maartengr.github.io/BERTopic/index.html), or even combining BERTopic with an open-source generative language model, which can be run through tools like [Ollama](https://ollama.com/), to generate more nuanced automated cluster labels.
 
+### Backup: Visualizing Your Data in CorText
 
+---
 
 If the script does not work, you can use [CorText](https://managerv2.cortext.net/) to explore your data. Here is a tutorial on how to use it. The tutorial is a bit old, and the data used in the video comes from Scopus. [Link to video](https://drive.google.com/file/d/14rYIcjR1IYIsCahphZDwVbyC4lcHCJXz/view?usp=sharing)
