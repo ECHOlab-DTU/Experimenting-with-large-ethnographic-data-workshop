@@ -1,6 +1,5 @@
 ![Logo](./Images/Logo.png)
 
-**EXPERIMENTING WITH LARGE ETHNOGRAPHIC DATA Workshop**
 
 ### Step 0: Step by Step Guide to begin working with your data
 
