@@ -9,7 +9,7 @@
 
 You can run the code using Google Colab, **but only if your data is GDPR compliant**. This is not suitable for interviews or other data containing personal information, as the data will be stored on Google servers. However, if you want to test the script, you can download the synthetic data from the folder and run the code safely using Google Colab.
 
-[Google Colab Script](https://drive.google.com/file/d/1YuvWj5I0bg9rrT4XKUrMy2YsjX4boXwj/view?usp=sharing)
+[Google Colab Script](###)
 
 ---
 
