@@ -5,6 +5,11 @@
 
 [Download the workshop PDF](https://github.com/Human-Centered-Engineering-Lab/EXPERIMENTING-WITH-LARGE-ETHNOGRAPHIC-DATA-workshop/raw/main/Images/StepbyStep%20Prep_Workshop%2002-10_HCELab.pdf)
 
+### Step 0.5: Using Google Colab - Only if Your Data is GDPR Compliant
+
+You can run the code using Google Colab, **but only if your data is GDPR compliant**. This is not suitable for interviews or other data containing personal information, as the data will be stored on Google servers. However, if you want to test the script, you can download the synthetic data from the folder and run the code safely using Google Colab.
+[Google Colab Script ](https://drive.google.com/file/d/1YuvWj5I0bg9rrT4XKUrMy2YsjX4boXwj/view?usp=sharing)
+
 ---
 
 ### Step 1: Generating Sentence Embeddings with Sentence Transformers
